@@ -5,6 +5,10 @@ pkg install python
 pkg install git
 pip install cython 
 git clone https://github.com/kenDevXD/efbe-crack 
+Kartu Telkomsel  suport untuk crack Tapi rata - rata cp
+  jadi wajar jika tidak dapat hasil atau lama
+  pada saat crack, Karena rawan spam.
+  Rekomendasi kartu Axis, XL , Three , Indosat.
 ````
 Jika semua sudah terinstall kalian tinggal jalankan script dengan ketikan perintah di bawah ini :
 ````bash
